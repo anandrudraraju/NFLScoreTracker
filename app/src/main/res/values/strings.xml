@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NFL Score Tracker</string>
+    <string name="teamA">Eagles</string>
+    <string name="teamA_city">Philadelphia</string>
+    <string name="teamB">Patriots</string>
+    <string name="teamB_city">New England</string>
+    <string name="touchdown">Touchdown +6</string>
+    <string name="extra">Extra Point +1</string>
+    <string name="twoPoint">Conversion +2</string>
+    <string name="safetyPoint">Safety +2</string>
+    <string name="fieldGoal">Field Goal +3</string>
+    <string name="points">0</string>
+    <string name="teamA_desc">Eagles Team Logo</string>
+    <string name="teamB_desc">Patriots Team Logo</string>
+    <string name="reset">Reset</string>
+    <string name="superbowl_logo">Superbowl Logo</string>
+    <string name="background_image">NFL Background Image</string>
+</resources>

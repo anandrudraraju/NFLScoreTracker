@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subtitle">16sp</dimen>
+    <dimen name="points">56sp</dimen>
+    <dimen name="button_text">14sp</dimen>
+    <dimen name="logo_height">100dp</dimen>
+    <dimen name="reset_pad">56dp</dimen>
+    <dimen name="reset_margin">18dp</dimen>
+    <dimen name="score_card_margin">18dp</dimen>
+    <dimen name="button_horizontal_margin">18dp</dimen>
+    <dimen name="button_spacing">2dp</dimen>
+    <dimen name="initial_margin">14dp</dimen>
+    <dimen name="superbowl_logo_height">140dp</dimen>
+    <dimen name="superbowl_logo_margin">10dp</dimen>
+    <dimen name="button_height">45dp</dimen>
+</resources>
